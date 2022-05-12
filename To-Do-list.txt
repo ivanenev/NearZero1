@@ -1,0 +1,5 @@
+Add CAM
+Add Modbus
+Modify PCB to Inxrease Voltages and Ams
+Add Foc
+Add Hardware Foc (Trimatic)
